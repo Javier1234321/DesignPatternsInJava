@@ -1,6 +1,6 @@
 package creational.abstract_factory;
 
-import java.util.Locale;
+
 
 public class Demo {
     private static Application configureApplication(){
